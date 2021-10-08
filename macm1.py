@@ -1,0 +1,2 @@
+#Ihaveamacbook
+#ithasm1processor
